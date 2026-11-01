@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Original and processed video data
+data/raw/
+data/processed/
+
+# Generated outputs
+outputs/
+
+# VS Code settings
+.vscode/
